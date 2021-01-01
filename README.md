@@ -1,0 +1,1 @@
+Basic implementation of a socket-io middleware with a logger to watch store changes
